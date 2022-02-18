@@ -2,7 +2,10 @@
 Retos preparados para el bootcamp purple #bootcamp
 
 # Escenario:
-Implementar una API REST para gestión de blogs
+Implementar una API REST para gestión de blogs.
+
+![image](https://user-images.githubusercontent.com/265018/154605061-68349ae7-083a-458e-9fcd-3bf9464cebe9.png)
+
 Los estados de blog son: activo, inactivo.
 Los estados del post son: borrador, publicado.
 
